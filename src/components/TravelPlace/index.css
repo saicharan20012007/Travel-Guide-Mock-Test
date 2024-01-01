@@ -1,0 +1,28 @@
+.travel-item {
+  list-style-type: none;
+  min-height: 420px;
+  background-color: white;
+  width: 500px;
+  margin: 20px;
+}
+
+.image {
+  height: 250px;
+  width: 500px;
+}
+
+.place-title {
+  font-size: 20px;
+  padding: 5px;
+  padding-left: 10px;
+  font-family: Roboto;
+  color: #475569;
+}
+
+.place-des {
+  font-size: 16px;
+  padding: 5px;
+  font-family: Roboto;
+  color: #64748b;
+  padding-left: 10px;
+}

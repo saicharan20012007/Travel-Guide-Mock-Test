@@ -1,0 +1,27 @@
+.main-title {
+  color: #334155;
+  text-align: center;
+  text-decoration: underline;
+  padding-bottom: 10px;
+  text-decoration-color: #52bbf0;
+  padding: 0px;
+  font-family: Roboto;
+  margin: 0px;
+}
+
+.results-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.background-container {
+  background-color: #eef4f7;
+  min-height: 100vh;
+  margin: 0px;
+}
+.un-ol {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
